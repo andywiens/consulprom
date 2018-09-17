@@ -1,0 +1,5 @@
+---
+  app: /bin/prometheus
+  appConfigPath: /etc/prometheus/prometheus.yml
+  consulKey: andy/dev/conf
+  consulAddr: docker.for.mac.localhost:8500

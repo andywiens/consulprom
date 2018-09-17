@@ -1,0 +1,5 @@
+---
+  app: /Users/andy/workspace/personal/prom-2.4/prometheus
+  appConfigPath: /tmp/prometheus.yml
+  consulKey: andy/dev/conf
+  consulAddr: localhost:8500
